@@ -1,11 +1,15 @@
 # 💫 About Me:
+<div align="right">
+  [![](https://visitcount.itsvg.in/api?id=konain611&icon=3&color=6)](https://visitcount.itsvg.in)
+</div>
+
 🔭 I’m currently working on LMS & Dynamic-Resume-Builder.<br>🌱 I’m currently learning Next.js, Figma, & Oracle.<br>📫 How to reach me: konain611@gmail.com
 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/konain.nasir.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syedkonainnasir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedkonainnasir) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/syed-konain) 
 
-### ✍️ Random Dev Quote &nbsp; [![](https://visitcount.itsvg.in/api?id=konain611&icon=3&color=6)](https://visitcount.itsvg.in)
+### ✍️ Random Dev Quote  
 Code is like humor. When you have to explain it, it’s bad.
 
 # 💻 Tech Stack:
