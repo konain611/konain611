@@ -16,7 +16,7 @@ Code is like humor. When you have to explain it, it’s bad.</hr>
 ![](https://github-readme-stats.vercel.app/api?username=konain611&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=konain611&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=konain611&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<br><hr>
 [![](https://visitcount.itsvg.in/api?id=konain611&icon=3&color=6)](https://visitcount.itsvg.in)
 
 ### 🔝 Top Contributed Repo
