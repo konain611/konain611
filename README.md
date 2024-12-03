@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on LMS & Dynamic-Resume-Builder.<br>🌱 I’m currently learning Next.js, Figma, & Oracle.<br>📫 How to reach me: konain611@gmail.com
+🔭 I’m currently working on LMS & Dynamic-Resume-Builder.<br>🌱 I’m currently learning Figma, Oracle & Sanity.io.<br>📫 How to reach me: konain611@gmail.com
 
 <br><hr>
 ## 🌐 Socials:
