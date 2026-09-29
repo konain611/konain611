@@ -60,19 +60,11 @@ learning    : AI agent workflows, RAG, MCP, orchestration, harness engineering, 
 ## `~/stats`
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=konain611&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&count_private=true" alt="GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konain611&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=konain611&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=konain611&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
-
+<img height="180" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats"/>
+<img height="180" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages"/>
+<img height="180" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time"/>
+<img height="180" src="https://streak-stats.demolab.com?user=konain611&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+<img src="https://raw.githubusercontent.com/konain611/konain611/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
 </div>
 
 ---
