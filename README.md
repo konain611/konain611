@@ -34,7 +34,7 @@ learning    : AI agent workflows, RAG, MCP, orchestration, harness engineering, 
 **Core**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,tailwind,nextjs,react,nodejs,postgres,prisma,redis,supabase,docusaurus,git,github,nginx,vercel,cloudflare,&theme=dark" alt="core stack"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,tailwind,nextjs,react,nodejs,postgres,prisma,redis,supabase,git,github,nginx,vercel,cloudflare,&theme=dark" alt="core stack"/>
 </p>
 
 **Learning / Expanding**
