@@ -1,6 +1,6 @@
 <!-- Replace every YOUR_USERNAME with your GitHub username -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b1f,100:00ff41&height=180&section=header&text=Syed%20Konain%20Nasir&fontSize=48&fontColor=00ff41&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20DevSecOps%20Tools%20%7C%20Currently%20Learning%20AI%20Agents%20and%20Automation&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003b1f,100:00ff41&height=180&section=header&text=Syed%20Konain%20Nasir&fontSize=48&fontColor=00ff41&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="banner"/>
 
 <div align="center">
 
@@ -60,10 +60,11 @@ learning    : AI agent workflows, RAG, MCP, orchestration, harness engineering, 
 ## `~/stats`
 
 <div align="center">
+<img height="180" src="https://streak-stats.demolab.com?user=konain611&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+</br>
 <img height="180" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats"/>
 <img height="180" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages"/>
 <img height="180" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time"/>
-<img height="180" src="https://streak-stats.demolab.com?user=konain611&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 <img src="https://raw.githubusercontent.com/konain611/konain611/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/>
 </div>
 
