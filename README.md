@@ -6,9 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=20\&duration=3000\&pause=1000\&color=00FF41\&center=true\&vCenter=true\&width=600\&lines=%3E+whoami+%E2%86%92+full-stack+engineer;%3E+designing+and+developing+end-to-end+systems;%3E+working+across+development%2C+deployment+%26+security;%3E+currently+learning+AI+agents+%26+automation)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=konain611\&color=00ff41\&style=flat-square\&label=PROFILE+VIEWS)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=konain611\&color=00ff41\&style=flat-square\&label=PROFILE+VIEWS)
 ![Location](https://img.shields.io/badge/LOCATION-Karachi%2C_PK-0d1117?style=flat-square\&labelColor=00331f\&color=00ff41)
-![Status](https://img.shields.io/badge/STATUS-BUILDING-0d1117?style=flat-square\&labelColor=00331f\&color=00ff41)
+![Status](https://img.shields.io/badge/STATUS-BUILDING-0d1117?style=flat-square\&labelColor=00331f\&color=00ff41) -->
 
 </div>
 
@@ -40,7 +40,7 @@ learning    : AI agent workflows, RAG, MCP, orchestration, harness engineering, 
 **Learning / Expanding**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,fastapi&theme=dark" alt="learning stack"/>
+  <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,fastapi,jenkins,prometheus,grafana,terraform&theme=dark" alt="learning stack"/>
 </p>
 
 ---
