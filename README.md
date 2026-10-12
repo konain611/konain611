@@ -40,7 +40,7 @@ learning    : AI agent workflows, RAG, MCP, orchestration, harness engineering, 
 **Learning / Expanding**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,fastapi,jenkins,prometheus,grafana,terraform&theme=dark" alt="learning stack"/>
+  <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,fastapi,githubactions,jenkins,prometheus,grafana,terraform&theme=dark" alt="learning stack"/>
 </p>
 
 ---
