@@ -45,7 +45,7 @@ learning    : AI agent workflows, RAG, MCP, orchestration, harness engineering, 
 
 ---
 
-## `~/projects`
+<!-- ## `~/projects`
 
 | Project                                                                       | Description                                                       | Stack                                     |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------- |
@@ -55,7 +55,7 @@ learning    : AI agent workflows, RAG, MCP, orchestration, harness engineering, 
 | **[DGMAGAZINE](https://dgmagazine.net)**                                      | Cyber intelligence platform in production at Diginfo              | `Next.js` `PostgreSQL` `Prisma`           |
 | **[Portfolio](https://github.com/konain611/Portfolio)**                       | Personal portfolio website                                        | `Next.js` `Tailwind` `Shadcn` `Remixicon` |
 
----
+--- -->
 
 ## `~/stats`
 
