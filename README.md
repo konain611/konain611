@@ -76,14 +76,14 @@ learning    : AI agent workflows, RAG, MCP, orchestration, harness engineering, 
 + developing and maintaining production software at Diginfo
 + working with Docker, Kubernetes and CI/CD workflows
 + building AI agent workflows, RAG pipelines and MCP integrations
-+ strengthening Git and software development fundamentals
++ strengthening Github actions and software development fundamentals
 + working across development, deployment, security and monitoring
 - debugging problems I definitely did not create
 ```
 
 ---
 
-## `~/connect`
+<!-- ## `~/connect`
 
 <div align="center">
 
@@ -99,6 +99,6 @@ learning    : AI agent workflows, RAG, MCP, orchestration, harness engineering, 
 > open to collaborations, freelance work, and interesting problems
 ```
 
-</div>
+</div> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b1f,100:0d1117&height=100&section=footer" width="100%" alt="footer"/>
