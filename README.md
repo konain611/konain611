@@ -100,4 +100,4 @@ learning    : AI agent workflows, RAG, MCP, orchestration, harness engineering, 
 
 </div> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b1f,100:0d1117&height=100&section=footer" width="100%" alt="footer"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b1f,100:0d1117&height=100&section=footer" width="100%" alt="footer"/> -->
