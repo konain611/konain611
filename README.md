@@ -23,7 +23,6 @@ name        : Syed Konain Nasir
 role        : Full-Stack Software Engineer @ Diginfo
 speciality  : full-stack development, system design, integrations
 experience  : frontend, backend, databases, deployment, security, monitoring
-# working_on  : scalable web applications and centralized business systems
 learning    : AI agents and automation, building intelligent systems that take on real operational work
 ```
 
@@ -34,7 +33,7 @@ learning    : AI agents and automation, building intelligent systems that take o
 **Core**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,ts,js,react,nextjs,nestjs,nodejs,bun,npm,postgres,prisma,redis,supabase,git,github,nginx,vercel,cloudflare,obsidian,postman&theme=dark" alt="core stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,ts,js,react,nextjs,nestjs,nodejs,bun,npm,postgres,prisma,mysql,redis,supabase,git,github,nginx,vercel,cloudflare,obsidian,postman&theme=dark" alt="core stack"/>
 </p>
 
 **Learning / Expanding**
