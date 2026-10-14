@@ -39,7 +39,7 @@ learning    : AI agents and automation, building intelligent systems that take o
 **Learning / Expanding**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,fastapi,githubactions,jenkins,prometheus,grafana,terraform&theme=dark" alt="learning stack"/>
+  <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,fastapi,githubactions&theme=dark" alt="learning stack"/>
 </p>
 
 ---
