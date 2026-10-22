@@ -66,7 +66,7 @@ learning    : AI agents and automation, building intelligent systems that take o
 <!-- <img src="https://raw.githubusercontent.com/konain611/konain611/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/> -->
 </div>
 
----
+<!-- ---
 
 ## `~/currently`
 
@@ -79,7 +79,7 @@ learning    : AI agents and automation, building intelligent systems that take o
 - debugging problems I definitely did not create
 ```
 
----
+--- -->
 
 <!-- ## `~/connect`
 
