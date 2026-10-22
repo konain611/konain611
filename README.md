@@ -22,7 +22,7 @@ $ cat about.txt
 name        : Syed Konain Nasir
 role        : Full-Stack Software Engineer @ Diginfo
 speciality  : full-stack development, system design, integrations
-experience  : frontend, backend, databases, deployment, security, monitoring
+experience  : frontend, backend, databases, caching, deployment, security, monitoring
 learning    : AI agents and automation, building intelligent systems that take on real operational work
 ```
 
